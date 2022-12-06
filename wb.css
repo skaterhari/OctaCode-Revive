@@ -88,6 +88,10 @@ a{
     transform: translate(-50%,-50%);
     transition: 0.5s;
 }
+#moon:hover{
+    background-color: #ffe100;
+    border-radius: 10px;
+}
 #but1{
     background-color: #ffe100;
     color: black;
