@@ -100,6 +100,7 @@ a{
 }
 button:hover{
     cursor: pointer;
+    background-color: #ffe100;
 }
 #main_image{
     position: absolute;
